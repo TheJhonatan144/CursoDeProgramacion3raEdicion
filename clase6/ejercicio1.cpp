@@ -89,5 +89,8 @@ int main()
         }
     } while (opcion != 3);
 
+        
+    cout << "Hola como estan" << endl;
+    
     return 0;
 }
