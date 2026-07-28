@@ -1,6 +1,6 @@
 /*
 ARREGLOS 1D
-EJERCICIO 1
+EJERCICIO 3
 Autor: Jhonatan Torres
 Fecha: 24 de julio 2026
 
