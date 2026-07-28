@@ -5,13 +5,13 @@ Autor: Jhonatan Torres
 Fecha: 27 de julio 2026
 */
 
-// PRIMER EJEMPLO: SIN &
+// PRIMER EJEMPLO: CON &
 
 #include <iostream>
 using namespace std;
 
 // FUNCION QUE SIRVE PARA AUMENTAR EL VALOR DE X
-void aumentar(int x)
+void aumentar(int &x)
 {
     x = x + 1;
     cout << "Dentro de la funcion, x vale: " << x << endl;
